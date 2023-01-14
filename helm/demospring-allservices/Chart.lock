@@ -1,0 +1,18 @@
+dependencies:
+- name: demospring-common
+  repository: file://../demospring-common
+  version: 0.1.0
+- name: demospring-eurekaserver
+  repository: file://../demospring-services/demospring-eurekaserver
+  version: 0.1.0
+- name: demospring-accounts
+  repository: file://../demospring-services/demospring-accounts
+  version: 0.1.0
+- name: demospring-cards
+  repository: file://../demospring-services/demospring-cards
+  version: 0.1.0
+- name: demospring-gatewayserver
+  repository: file://../demospring-services/demospring-gatewayserver
+  version: 0.1.0
+digest: sha256:28bd313d45380976ecff98bbab654685a6419738edf4270b378b0be426142e35
+generated: "2022-12-23T16:19:36.2868681+07:00"

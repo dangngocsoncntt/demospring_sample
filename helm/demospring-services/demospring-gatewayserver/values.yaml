@@ -1,0 +1,14 @@
+deploymentName: gatewayserver-deployment
+deploymentLabel: gatewayserver
+replicaCount: 1
+image:
+  tag: demospring
+  repository: dangngocsoncntt/gatewayserver
+containerPort: 29902
+
+service:
+  type: LoadBalancer
+  port: 29902
+  targetPort: 29902
+
+eureka_enabled: true

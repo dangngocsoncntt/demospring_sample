@@ -1,0 +1,14 @@
+deploymentName: eurekaserver-deployment
+deploymentLabel: eurekaserver
+replicaCount: 1
+image:
+  tag: demospring
+  repository: dangngocsoncntt/eurekaserver
+containerPort: 29901
+
+service:
+  type: ClusterIP
+  port: 29901
+  targetPort: 29901
+
+eureka_enabled: true

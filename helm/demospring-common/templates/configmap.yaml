@@ -1,0 +1,8 @@
+{{- define "common.configmap" -}}
+apiVersion: v1
+kind: ConfigMap
+metadata:
+  name: {{ .Values.global.configMapName }}
+data:
+  EUREKA_CLIENT_SERVICEURL_DEFAULTZONE: {{ .Values.global.serviceURL }}
+{{- end -}}

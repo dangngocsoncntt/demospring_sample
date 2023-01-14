@@ -1,0 +1,4 @@
+#
+# TEMPLATE WITH NO VALUE; 
+#
+# helm install -f prometheus.yaml prometheus prometheus-community/prometheus

@@ -1,0 +1,14 @@
+deploymentName: accounts-deployment
+deploymentLabel: accounts
+replicaCount: 1
+image:
+  tag: demospring
+  repository: dangngocsoncntt/accounts
+containerPort: 29910
+
+service:
+  type: ClusterIP
+  port: 29910
+  targetPort: 29910
+
+eureka_enabled: true

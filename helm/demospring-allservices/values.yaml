@@ -1,0 +1,6 @@
+#
+# GIA TRI CAU HINH CHO FILE CONFIGMAP
+#
+global:
+  serviceURL: http://eurekaserver:29901/eureka/
+  configMapName: configmap-common

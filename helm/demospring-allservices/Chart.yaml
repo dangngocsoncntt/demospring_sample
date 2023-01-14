@@ -1,0 +1,22 @@
+apiVersion: v2
+name: demospring-allservices
+description: A Helm chart for Kubernetes
+type: application
+version: 0.1.0
+appVersion: "1.16.0"
+dependencies:
+  - name: demospring-common
+    version: 0.1.0
+    repository: file://../demospring-common
+  - name: demospring-eurekaserver
+    version: 0.1.0
+    repository: file://../demospring-services/demospring-eurekaserver
+  - name: demospring-accounts
+    version: 0.1.0
+    repository: file://../demospring-services/demospring-accounts
+  - name: demospring-cards
+    version: 0.1.0
+    repository: file://../demospring-services/demospring-cards
+  - name: demospring-gatewayserver
+    version: 0.1.0
+    repository: file://../demospring-services/demospring-gatewayserver

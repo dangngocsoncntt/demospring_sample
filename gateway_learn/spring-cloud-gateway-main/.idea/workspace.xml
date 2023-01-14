@@ -1,0 +1,285 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="96a874c1-190e-4ea8-b37f-ad6fbbe3ce80" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../gs-gateway-main/initial/src/main/java/gateway/ApplicationTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../helm/demospring-allservices/Chart.lock" beforeDir="false" afterPath="$PROJECT_DIR$/../../helm/demospring-allservices/Chart.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../helm/demospring-allservices/charts/demospring-accounts-0.1.0.tgz" beforeDir="false" afterPath="$PROJECT_DIR$/../../helm/demospring-allservices/charts/demospring-accounts-0.1.0.tgz" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../helm/demospring-allservices/charts/demospring-cards-0.1.0.tgz" beforeDir="false" afterPath="$PROJECT_DIR$/../../helm/demospring-allservices/charts/demospring-cards-0.1.0.tgz" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../helm/demospring-allservices/charts/demospring-common-0.1.0.tgz" beforeDir="false" afterPath="$PROJECT_DIR$/../../helm/demospring-allservices/charts/demospring-common-0.1.0.tgz" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../helm/demospring-allservices/charts/demospring-eurekaserver-0.1.0.tgz" beforeDir="false" afterPath="$PROJECT_DIR$/../../helm/demospring-allservices/charts/demospring-eurekaserver-0.1.0.tgz" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../helm/demospring-allservices/charts/demospring-gatewayserver-0.1.0.tgz" beforeDir="false" afterPath="$PROJECT_DIR$/../../helm/demospring-allservices/charts/demospring-gatewayserver-0.1.0.tgz" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../helm/demospring-common/templates/deployment.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/../../helm/demospring-common/templates/deployment.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../helm/demospring-common/values.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/../../helm/demospring-common/values.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../helm/demospring-services/demospring-accounts/charts/demospring-common-0.1.0.tgz" beforeDir="false" afterPath="$PROJECT_DIR$/../../helm/demospring-services/demospring-accounts/charts/demospring-common-0.1.0.tgz" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../helm/demospring-services/demospring-accounts/values.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/../../helm/demospring-services/demospring-accounts/values.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../helm/demospring-services/demospring-cards/charts/demospring-common-0.1.0.tgz" beforeDir="false" afterPath="$PROJECT_DIR$/../../helm/demospring-services/demospring-cards/charts/demospring-common-0.1.0.tgz" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../helm/demospring-services/demospring-cards/values.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/../../helm/demospring-services/demospring-cards/values.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../helm/demospring-services/demospring-eurekaserver/charts/demospring-common-0.1.0.tgz" beforeDir="false" afterPath="$PROJECT_DIR$/../../helm/demospring-services/demospring-eurekaserver/charts/demospring-common-0.1.0.tgz" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../helm/demospring-services/demospring-eurekaserver/values.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/../../helm/demospring-services/demospring-eurekaserver/values.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../helm/demospring-services/demospring-gatewayserver/charts/demospring-common-0.1.0.tgz" beforeDir="false" afterPath="$PROJECT_DIR$/../../helm/demospring-services/demospring-gatewayserver/charts/demospring-common-0.1.0.tgz" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../helm/demospring-services/demospring-gatewayserver/values.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/../../helm/demospring-services/demospring-gatewayserver/values.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../helm_example_eazybank/microservices-with-spring-main/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../helm_example_eazybank/microservices-with-spring-main/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../helm_example_eazybank/microservices-with-spring-main/accounts/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../helm_example_eazybank/microservices-with-spring-main/accounts/.mvn/wrapper/MavenWrapperDownloader.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../helm_example_eazybank/microservices-with-spring-main/accounts/.mvn/wrapper/maven-wrapper.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../helm_example_eazybank/microservices-with-spring-main/accounts/.mvn/wrapper/maven-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../helm_example_eazybank/microservices-with-spring-main/accounts/Dockerfile" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../helm_example_eazybank/microservices-with-spring-main/accounts/docker-compose.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../helm_example_eazybank/microservices-with-spring-main/accounts/docker-compose/default/docker-compose.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../helm_example_eazybank/microservices-with-spring-main/accounts/docker-compose/dev/docker-compose.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../helm_example_eazybank/microservices-with-spring-main/accounts/docker-compose/monitoring/docker-compose.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../helm_example_eazybank/microservices-with-spring-main/accounts/docker-compose/monitoring/prometheus.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../helm_example_eazybank/microservices-with-spring-main/accounts/docker-compose/prod/docker-compose.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../helm_example_eazybank/microservices-with-spring-main/accounts/kubernetes/1_configmaps.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../helm_example_eazybank/microservices-with-spring-main/accounts/kubernetes/2_zipkin.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../helm_example_eazybank/microservices-with-spring-main/accounts/kubernetes/3_configserver.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../helm_example_eazybank/microservices-with-spring-main/accounts/kubernetes/4_eurekaserver.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../helm_example_eazybank/microservices-with-spring-main/accounts/kubernetes/5_accounts.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../helm_example_eazybank/microservices-with-spring-main/accounts/mvnw" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../helm_example_eazybank/microservices-with-spring-main/accounts/mvnw.cmd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../helm_example_eazybank/microservices-with-spring-main/accounts/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../helm_example_eazybank/microservices-with-spring-main/accounts/src/main/java/com/eazybytes/accounts/AccountsApplication.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../helm_example_eazybank/microservices-with-spring-main/accounts/src/main/java/com/eazybytes/accounts/config/AccountsServiceConfig.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../helm_example_eazybank/microservices-with-spring-main/accounts/src/main/java/com/eazybytes/accounts/config/KeycloakRoleConverter.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../helm_example_eazybank/microservices-with-spring-main/accounts/src/main/java/com/eazybytes/accounts/config/SecurityConfig.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../helm_example_eazybank/microservices-with-spring-main/accounts/src/main/java/com/eazybytes/accounts/controller/AccountsController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../helm_example_eazybank/microservices-with-spring-main/accounts/src/main/java/com/eazybytes/accounts/model/Accounts.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../helm_example_eazybank/microservices-with-spring-main/accounts/src/main/java/com/eazybytes/accounts/model/Cards.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../helm_example_eazybank/microservices-with-spring-main/accounts/src/main/java/com/eazybytes/accounts/model/Customer.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../helm_example_eazybank/microservices-with-spring-main/accounts/src/main/java/com/eazybytes/accounts/model/CustomerDetails.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../helm_example_eazybank/microservices-with-spring-main/accounts/src/main/java/com/eazybytes/accounts/model/Loans.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../helm_example_eazybank/microservices-with-spring-main/accounts/src/main/java/com/eazybytes/accounts/model/Properties.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../helm_example_eazybank/microservices-with-spring-main/accounts/src/main/java/com/eazybytes/accounts/repository/AccountsRepository.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../helm_example_eazybank/microservices-with-spring-main/accounts/src/main/java/com/eazybytes/accounts/service/client/CardsFeignClient.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../helm_example_eazybank/microservices-with-spring-main/accounts/src/main/java/com/eazybytes/accounts/service/client/LoansFeignClient.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../helm_example_eazybank/microservices-with-spring-main/accounts/src/main/resources/application.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../helm_example_eazybank/microservices-with-spring-main/accounts/src/main/resources/data.sql" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../helm_example_eazybank/microservices-with-spring-main/accounts/src/test/java/com/eazybytes/accounts/AccountsApplicationTests.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../helm_example_eazybank/microservices-with-spring-main/cards/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../helm_example_eazybank/microservices-with-spring-main/cards/.mvn/wrapper/MavenWrapperDownloader.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../helm_example_eazybank/microservices-with-spring-main/cards/.mvn/wrapper/maven-wrapper.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../helm_example_eazybank/microservices-with-spring-main/cards/.mvn/wrapper/maven-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../helm_example_eazybank/microservices-with-spring-main/cards/mvnw" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../helm_example_eazybank/microservices-with-spring-main/cards/mvnw.cmd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../helm_example_eazybank/microservices-with-spring-main/cards/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../helm_example_eazybank/microservices-with-spring-main/cards/src/main/java/com/eazybytes/cards/CardsApplication.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../helm_example_eazybank/microservices-with-spring-main/cards/src/main/java/com/eazybytes/cards/config/CardsServiceConfig.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../helm_example_eazybank/microservices-with-spring-main/cards/src/main/java/com/eazybytes/cards/controller/CardsController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../helm_example_eazybank/microservices-with-spring-main/cards/src/main/java/com/eazybytes/cards/model/Cards.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../helm_example_eazybank/microservices-with-spring-main/cards/src/main/java/com/eazybytes/cards/model/Customer.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../helm_example_eazybank/microservices-with-spring-main/cards/src/main/java/com/eazybytes/cards/model/Properties.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../helm_example_eazybank/microservices-with-spring-main/cards/src/main/java/com/eazybytes/cards/repository/CardsRepository.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../helm_example_eazybank/microservices-with-spring-main/cards/src/main/resources/application.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../helm_example_eazybank/microservices-with-spring-main/cards/src/main/resources/data.sql" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../helm_example_eazybank/microservices-with-spring-main/cards/src/test/java/com/eazybytes/cards/CardsApplicationTests.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../helm_example_eazybank/microservices-with-spring-main/configserver/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../helm_example_eazybank/microservices-with-spring-main/configserver/.mvn/wrapper/MavenWrapperDownloader.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../helm_example_eazybank/microservices-with-spring-main/configserver/.mvn/wrapper/maven-wrapper.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../helm_example_eazybank/microservices-with-spring-main/configserver/.mvn/wrapper/maven-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../helm_example_eazybank/microservices-with-spring-main/configserver/mvnw" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../helm_example_eazybank/microservices-with-spring-main/configserver/mvnw.cmd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../helm_example_eazybank/microservices-with-spring-main/configserver/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../helm_example_eazybank/microservices-with-spring-main/configserver/src/main/java/com/eaztbytes/configserver/ConfigserverApplication.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../helm_example_eazybank/microservices-with-spring-main/configserver/src/main/resources/application.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../helm_example_eazybank/microservices-with-spring-main/configserver/src/main/resources/config/accounts-dev.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../helm_example_eazybank/microservices-with-spring-main/configserver/src/main/resources/config/accounts-prod.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../helm_example_eazybank/microservices-with-spring-main/configserver/src/main/resources/config/accounts.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../helm_example_eazybank/microservices-with-spring-main/configserver/src/main/resources/config/cards-dev.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../helm_example_eazybank/microservices-with-spring-main/configserver/src/main/resources/config/cards-prod.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../helm_example_eazybank/microservices-with-spring-main/configserver/src/main/resources/config/cards.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../helm_example_eazybank/microservices-with-spring-main/configserver/src/main/resources/config/loans-dev.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../helm_example_eazybank/microservices-with-spring-main/configserver/src/main/resources/config/loans-prod.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../helm_example_eazybank/microservices-with-spring-main/configserver/src/main/resources/config/loans.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../helm_example_eazybank/microservices-with-spring-main/configserver/src/test/java/com/eaztbytes/configserver/ConfigserverApplicationTests.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../helm_example_eazybank/microservices-with-spring-main/eurekaserver/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../helm_example_eazybank/microservices-with-spring-main/eurekaserver/.mvn/wrapper/MavenWrapperDownloader.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../helm_example_eazybank/microservices-with-spring-main/eurekaserver/.mvn/wrapper/maven-wrapper.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../helm_example_eazybank/microservices-with-spring-main/eurekaserver/.mvn/wrapper/maven-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../helm_example_eazybank/microservices-with-spring-main/eurekaserver/mvnw" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../helm_example_eazybank/microservices-with-spring-main/eurekaserver/mvnw.cmd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../helm_example_eazybank/microservices-with-spring-main/eurekaserver/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../helm_example_eazybank/microservices-with-spring-main/eurekaserver/src/main/java/com/eaztbytes/eurekaserver/EurekaserverApplication.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../helm_example_eazybank/microservices-with-spring-main/eurekaserver/src/main/resources/application.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../helm_example_eazybank/microservices-with-spring-main/eurekaserver/src/test/java/com/eaztbytes/eurekaserver/EurekaserverApplicationTests.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../helm_example_eazybank/microservices-with-spring-main/gatewayserver/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../helm_example_eazybank/microservices-with-spring-main/gatewayserver/.mvn/wrapper/MavenWrapperDownloader.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../helm_example_eazybank/microservices-with-spring-main/gatewayserver/.mvn/wrapper/maven-wrapper.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../helm_example_eazybank/microservices-with-spring-main/gatewayserver/.mvn/wrapper/maven-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../helm_example_eazybank/microservices-with-spring-main/gatewayserver/mvnw" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../helm_example_eazybank/microservices-with-spring-main/gatewayserver/mvnw.cmd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../helm_example_eazybank/microservices-with-spring-main/gatewayserver/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../helm_example_eazybank/microservices-with-spring-main/gatewayserver/src/main/java/com/eaztbytes/gatewayserver/GatewayserverApplication.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../helm_example_eazybank/microservices-with-spring-main/gatewayserver/src/main/java/com/eaztbytes/gatewayserver/config/SecurityConfig.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../helm_example_eazybank/microservices-with-spring-main/gatewayserver/src/main/java/com/eaztbytes/gatewayserver/filters/FilterUtility.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../helm_example_eazybank/microservices-with-spring-main/gatewayserver/src/main/java/com/eaztbytes/gatewayserver/filters/RequestTraceFilter.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../helm_example_eazybank/microservices-with-spring-main/gatewayserver/src/main/java/com/eaztbytes/gatewayserver/filters/ResponseTraceFilter.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../helm_example_eazybank/microservices-with-spring-main/gatewayserver/src/main/resources/application.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../helm_example_eazybank/microservices-with-spring-main/gatewayserver/src/test/java/com/eaztbytes/gatewayserver/GatewayserverApplicationTests.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../helm_example_eazybank/microservices-with-spring-main/helloworldservice/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../helm_example_eazybank/microservices-with-spring-main/helloworldservice/.mvn/wrapper/MavenWrapperDownloader.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../helm_example_eazybank/microservices-with-spring-main/helloworldservice/.mvn/wrapper/maven-wrapper.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../helm_example_eazybank/microservices-with-spring-main/helloworldservice/.mvn/wrapper/maven-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../helm_example_eazybank/microservices-with-spring-main/helloworldservice/mvnw" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../helm_example_eazybank/microservices-with-spring-main/helloworldservice/mvnw.cmd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../helm_example_eazybank/microservices-with-spring-main/helloworldservice/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../helm_example_eazybank/microservices-with-spring-main/helloworldservice/src/main/java/com/eazybytes/helloworldservice/HelloWorldRestController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../helm_example_eazybank/microservices-with-spring-main/helloworldservice/src/main/java/com/eazybytes/helloworldservice/HelloworldserviceApplication.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../helm_example_eazybank/microservices-with-spring-main/helloworldservice/src/main/resources/application.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../helm_example_eazybank/microservices-with-spring-main/helloworldservice/src/test/java/com/eazybytes/helloworldservice/HelloworldserviceApplicationTests.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../helm_example_eazybank/microservices-with-spring-main/helm/eazybank-common/.helmignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../helm_example_eazybank/microservices-with-spring-main/helm/eazybank-common/Chart.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../helm_example_eazybank/microservices-with-spring-main/helm/eazybank-common/templates/configmap.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../helm_example_eazybank/microservices-with-spring-main/helm/eazybank-common/templates/deployment.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../helm_example_eazybank/microservices-with-spring-main/helm/eazybank-common/templates/secret.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../helm_example_eazybank/microservices-with-spring-main/helm/eazybank-common/templates/service.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../helm_example_eazybank/microservices-with-spring-main/helm/eazybank-common/values.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../helm_example_eazybank/microservices-with-spring-main/helm/eazybank-services/accounts/.helmignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../helm_example_eazybank/microservices-with-spring-main/helm/eazybank-services/accounts/Chart.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../helm_example_eazybank/microservices-with-spring-main/helm/eazybank-services/accounts/Chart.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../helm_example_eazybank/microservices-with-spring-main/helm/eazybank-services/accounts/charts/eazybank-common-0.1.0.tgz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../helm_example_eazybank/microservices-with-spring-main/helm/eazybank-services/accounts/templates/deployment.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../helm_example_eazybank/microservices-with-spring-main/helm/eazybank-services/accounts/templates/service.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../helm_example_eazybank/microservices-with-spring-main/helm/eazybank-services/accounts/values.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../helm_example_eazybank/microservices-with-spring-main/helm/eazybank-services/cards/.helmignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../helm_example_eazybank/microservices-with-spring-main/helm/eazybank-services/cards/Chart.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../helm_example_eazybank/microservices-with-spring-main/helm/eazybank-services/cards/Chart.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../helm_example_eazybank/microservices-with-spring-main/helm/eazybank-services/cards/charts/eazybank-common-0.1.0.tgz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../helm_example_eazybank/microservices-with-spring-main/helm/eazybank-services/cards/templates/deployment.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../helm_example_eazybank/microservices-with-spring-main/helm/eazybank-services/cards/templates/service.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../helm_example_eazybank/microservices-with-spring-main/helm/eazybank-services/cards/values.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../helm_example_eazybank/microservices-with-spring-main/helm/eazybank-services/configserver/.helmignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../helm_example_eazybank/microservices-with-spring-main/helm/eazybank-services/configserver/Chart.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../helm_example_eazybank/microservices-with-spring-main/helm/eazybank-services/configserver/Chart.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../helm_example_eazybank/microservices-with-spring-main/helm/eazybank-services/configserver/charts/eazybank-common-0.1.0.tgz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../helm_example_eazybank/microservices-with-spring-main/helm/eazybank-services/configserver/templates/deployment.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../helm_example_eazybank/microservices-with-spring-main/helm/eazybank-services/configserver/templates/service.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../helm_example_eazybank/microservices-with-spring-main/helm/eazybank-services/configserver/values.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../helm_example_eazybank/microservices-with-spring-main/helm/eazybank-services/eurekaserver/.helmignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../helm_example_eazybank/microservices-with-spring-main/helm/eazybank-services/eurekaserver/Chart.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../helm_example_eazybank/microservices-with-spring-main/helm/eazybank-services/eurekaserver/Chart.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../helm_example_eazybank/microservices-with-spring-main/helm/eazybank-services/eurekaserver/charts/eazybank-common-0.1.0.tgz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../helm_example_eazybank/microservices-with-spring-main/helm/eazybank-services/eurekaserver/templates/deployment.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../helm_example_eazybank/microservices-with-spring-main/helm/eazybank-services/eurekaserver/templates/service.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../helm_example_eazybank/microservices-with-spring-main/helm/eazybank-services/eurekaserver/values.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../helm_example_eazybank/microservices-with-spring-main/helm/eazybank-services/gatewayserver/.helmignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../helm_example_eazybank/microservices-with-spring-main/helm/eazybank-services/gatewayserver/Chart.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../helm_example_eazybank/microservices-with-spring-main/helm/eazybank-services/gatewayserver/Chart.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../helm_example_eazybank/microservices-with-spring-main/helm/eazybank-services/gatewayserver/charts/eazybank-common-0.1.0.tgz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../helm_example_eazybank/microservices-with-spring-main/helm/eazybank-services/gatewayserver/templates/deployment.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../helm_example_eazybank/microservices-with-spring-main/helm/eazybank-services/gatewayserver/templates/service.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../helm_example_eazybank/microservices-with-spring-main/helm/eazybank-services/gatewayserver/values.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../helm_example_eazybank/microservices-with-spring-main/helm/eazybank-services/loans/.helmignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../helm_example_eazybank/microservices-with-spring-main/helm/eazybank-services/loans/Chart.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../helm_example_eazybank/microservices-with-spring-main/helm/eazybank-services/loans/Chart.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../helm_example_eazybank/microservices-with-spring-main/helm/eazybank-services/loans/charts/eazybank-common-0.1.0.tgz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../helm_example_eazybank/microservices-with-spring-main/helm/eazybank-services/loans/templates/deployment.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../helm_example_eazybank/microservices-with-spring-main/helm/eazybank-services/loans/templates/service.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../helm_example_eazybank/microservices-with-spring-main/helm/eazybank-services/loans/values.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../helm_example_eazybank/microservices-with-spring-main/helm/eazybank-services/zipkin/.helmignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../helm_example_eazybank/microservices-with-spring-main/helm/eazybank-services/zipkin/Chart.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../helm_example_eazybank/microservices-with-spring-main/helm/eazybank-services/zipkin/Chart.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../helm_example_eazybank/microservices-with-spring-main/helm/eazybank-services/zipkin/charts/eazybank-common-0.1.0.tgz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../helm_example_eazybank/microservices-with-spring-main/helm/eazybank-services/zipkin/templates/deployment.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../helm_example_eazybank/microservices-with-spring-main/helm/eazybank-services/zipkin/templates/service.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../helm_example_eazybank/microservices-with-spring-main/helm/eazybank-services/zipkin/values.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../helm_example_eazybank/microservices-with-spring-main/helm/environments/dev-env/.helmignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../helm_example_eazybank/microservices-with-spring-main/helm/environments/dev-env/Chart.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../helm_example_eazybank/microservices-with-spring-main/helm/environments/dev-env/Chart.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../helm_example_eazybank/microservices-with-spring-main/helm/environments/dev-env/charts/accounts-0.1.0.tgz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../helm_example_eazybank/microservices-with-spring-main/helm/environments/dev-env/charts/cards-0.1.0.tgz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../helm_example_eazybank/microservices-with-spring-main/helm/environments/dev-env/charts/configserver-0.1.0.tgz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../helm_example_eazybank/microservices-with-spring-main/helm/environments/dev-env/charts/eazybank-common-0.1.0.tgz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../helm_example_eazybank/microservices-with-spring-main/helm/environments/dev-env/charts/eurekaserver-0.1.0.tgz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../helm_example_eazybank/microservices-with-spring-main/helm/environments/dev-env/charts/gatewayserver-0.1.0.tgz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../helm_example_eazybank/microservices-with-spring-main/helm/environments/dev-env/charts/loans-0.1.0.tgz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../helm_example_eazybank/microservices-with-spring-main/helm/environments/dev-env/charts/zipkin-0.1.0.tgz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../helm_example_eazybank/microservices-with-spring-main/helm/environments/dev-env/templates/configmap.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../helm_example_eazybank/microservices-with-spring-main/helm/environments/dev-env/templates/secret.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../helm_example_eazybank/microservices-with-spring-main/helm/environments/dev-env/values.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../helm_example_eazybank/microservices-with-spring-main/helm/environments/prod-env/.helmignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../helm_example_eazybank/microservices-with-spring-main/helm/environments/prod-env/Chart.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../helm_example_eazybank/microservices-with-spring-main/helm/environments/prod-env/Chart.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../helm_example_eazybank/microservices-with-spring-main/helm/environments/prod-env/charts/accounts-0.1.0.tgz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../helm_example_eazybank/microservices-with-spring-main/helm/environments/prod-env/charts/cards-0.1.0.tgz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../helm_example_eazybank/microservices-with-spring-main/helm/environments/prod-env/charts/configserver-0.1.0.tgz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../helm_example_eazybank/microservices-with-spring-main/helm/environments/prod-env/charts/eazybank-common-0.1.0.tgz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../helm_example_eazybank/microservices-with-spring-main/helm/environments/prod-env/charts/eurekaserver-0.1.0.tgz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../helm_example_eazybank/microservices-with-spring-main/helm/environments/prod-env/charts/gatewayserver-0.1.0.tgz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../helm_example_eazybank/microservices-with-spring-main/helm/environments/prod-env/charts/loans-0.1.0.tgz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../helm_example_eazybank/microservices-with-spring-main/helm/environments/prod-env/charts/zipkin-0.1.0.tgz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../helm_example_eazybank/microservices-with-spring-main/helm/environments/prod-env/templates/configmap.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../helm_example_eazybank/microservices-with-spring-main/helm/environments/prod-env/templates/secret.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../helm_example_eazybank/microservices-with-spring-main/helm/environments/prod-env/values.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../helm_example_eazybank/microservices-with-spring-main/loans/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../helm_example_eazybank/microservices-with-spring-main/loans/.mvn/wrapper/MavenWrapperDownloader.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../helm_example_eazybank/microservices-with-spring-main/loans/.mvn/wrapper/maven-wrapper.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../helm_example_eazybank/microservices-with-spring-main/loans/.mvn/wrapper/maven-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../helm_example_eazybank/microservices-with-spring-main/loans/mvnw" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../helm_example_eazybank/microservices-with-spring-main/loans/mvnw.cmd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../helm_example_eazybank/microservices-with-spring-main/loans/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../helm_example_eazybank/microservices-with-spring-main/loans/src/main/java/com/eazybytes/loans/LoansApplication.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../helm_example_eazybank/microservices-with-spring-main/loans/src/main/java/com/eazybytes/loans/config/LoansServiceConfig.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../helm_example_eazybank/microservices-with-spring-main/loans/src/main/java/com/eazybytes/loans/controller/LoansController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../helm_example_eazybank/microservices-with-spring-main/loans/src/main/java/com/eazybytes/loans/model/Customer.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../helm_example_eazybank/microservices-with-spring-main/loans/src/main/java/com/eazybytes/loans/model/Loans.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../helm_example_eazybank/microservices-with-spring-main/loans/src/main/java/com/eazybytes/loans/model/Properties.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../helm_example_eazybank/microservices-with-spring-main/loans/src/main/java/com/eazybytes/loans/repository/LoansRepository.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../helm_example_eazybank/microservices-with-spring-main/loans/src/main/resources/application.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../helm_example_eazybank/microservices-with-spring-main/loans/src/main/resources/data.sql" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../helm_example_eazybank/microservices-with-spring-main/loans/src/test/java/com/eazybytes/loans/LoansApplicationTests.java" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="Use Maven wrapper" />
+        <option name="useMavenConfig" value="true" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="2JMAYoUIWIVnbxKmsAwBhEkidKH" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "C:/D/DemoSpringGit/gatewayserver"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="96a874c1-190e-4ea8-b37f-ad6fbbe3ce80" name="Changes" comment="" />
+      <created>1671877637182</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1671877637182</updated>
+      <workItem from="1671877638773" duration="1256000" />
+      <workItem from="1671878918561" duration="700000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>

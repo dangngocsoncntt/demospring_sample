@@ -1,0 +1,14 @@
+deploymentName: cards-deployment
+deploymentLabel: cards
+replicaCount: 1
+image:
+  tag: demospring
+  repository: dangngocsoncntt/cards
+containerPort: 29920
+
+service:
+  type: ClusterIP
+  port: 29920
+  targetPort: 29920
+
+eureka_enabled: true

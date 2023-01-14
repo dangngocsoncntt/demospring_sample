@@ -1,0 +1,6 @@
+dependencies:
+- name: demospring-common
+  repository: file://../../demospring-common
+  version: 0.1.0
+digest: sha256:75d9441449dae30f208b34423d76bbf21f2d0694605c3fb4aa566d2ad2c03077
+generated: "2022-12-23T10:51:36.224733+07:00"
