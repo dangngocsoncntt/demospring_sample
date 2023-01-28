@@ -1,0 +1,69 @@
+version: "3.8"
+
+services:
+  eurekaserver:
+    image: dangngocsoncntt/eurekaserver:newest
+    mem_limit: 700m
+    ports:
+      - "29901:29901"
+    networks:
+      - dangngocsoncntt/networks
+   
+  accounts:
+    image: dangngocsoncntt/accounts:newest
+    mem_limit: 700m
+    ports:
+      - "29910:29910"
+    networks:
+      - dangngocsoncntt/networks
+    depends_on:
+      - eurekaserver
+    deploy:
+      restart_policy:
+        condition: on-failure
+        delay: 30s
+        max_attempts: 3
+        window: 120s
+    environment:
+      EUREKA_CLIENT_SERVICEURL_DEFAULTZONE: http://eurekaserver:29901/eureka/
+  
+  cards:
+    image: dangngocsoncntt/cards:newest
+    mem_limit: 700m
+    ports:
+      - "29920:29920"
+    networks:
+      - dangngocsoncntt/networks
+    depends_on:
+      - eurekaserver
+    deploy:
+      restart_policy:
+        condition: on-failure
+        delay: 30s
+        max_attempts: 3
+        window: 120s
+    environment:
+      EUREKA_CLIENT_SERVICEURL_DEFAULTZONE: http://eurekaserver:29901/eureka/
+      
+  gatewayserver:
+    image: dangngocsoncntt/gatewayserver:newest
+    mem_limit: 700m
+    ports:
+      - "29902:29902"
+    networks:
+      - dangngocsoncntt/networks
+    depends_on:
+      - eurekaserver
+      - cards
+      - accounts
+    deploy:
+      restart_policy:
+        condition: on-failure
+        delay: 30s
+        max_attempts: 3
+        window: 120s
+    environment:
+      EUREKA_CLIENT_SERVICEURL_DEFAULTZONE: http://eurekaserver:29901/eureka/
+
+networks:
+  dangngocsoncntt/networks:

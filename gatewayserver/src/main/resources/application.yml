@@ -1,24 +1,24 @@
-spring:
-  cloud:
-    gateway:
-      routes:
-        - id: check-filter1
-          uri: lb://accounts
-          predicates:
-            - Path=/sayHello2WithCards
-          filters:
-#            - AddRequestHeader=Manufacturer,sondn            ### CHUA CHECK DUOC
-            - AddResponseHeader=Producer,sondn1              ### OK
-#            - AddRequestParameter=id,12345678              ### OK
-#            - RedirectTo=302,http://dantri.com.vn           ### OK
-#            - PrefixPath=/sondn                             ### OK
-
-        - id: check-filter2
-          uri: lb://accounts
-          predicates:
-            - Path=/sayHello2WithCardsPV/**
-          filters:
-#            - RewritePath=/sayHello2WithCardsPV/(?<segment>.*),/ahihihi/$\{segment}     ### OK
-#            - RemoveRequestHeader=Content-Type                   ### CHUA CHECK DUOC
-#            - RemoveResponseHeader=transfer-encoding             ### OK
-#            - RemoveRequestParameter=id                          ### CHUA CHECK DUOC
+#spring:
+#  cloud:
+#    gateway:
+#      routes:
+#        - id: check-filter1
+#          uri: lb://accounts
+#          predicates:
+#            - Path=/sayHello2WithCards
+#          filters:
+##            - AddRequestHeader=Manufacturer,sondn            ### CHUA CHECK DUOC
+#            - AddResponseHeader=Producer,sondn1              ### OK
+##            - AddRequestParameter=id,12345678              ### OK
+##            - RedirectTo=302,http://dantri.com.vn           ### OK
+##            - PrefixPath=/sondn                             ### OK
+#
+#        - id: check-filter2
+#          uri: lb://accounts
+#          predicates:
+#            - Path=/sayHello2WithCardsPV/**
+#          filters:
+##            - RewritePath=/sayHello2WithCardsPV/(?<segment>.*),/ahihihi/$\{segment}     ### OK
+##            - RemoveRequestHeader=Content-Type                   ### CHUA CHECK DUOC
+##            - RemoveResponseHeader=transfer-encoding             ### OK
+##            - RemoveRequestParameter=id                          ### CHUA CHECK DUOC
