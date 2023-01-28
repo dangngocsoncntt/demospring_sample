@@ -1,24 +1,24 @@
 apiVersion: apps/v1
 kind: Deployment
 metadata:
-  name: gatewayserver-deployment
+  name: cards-deployment
   labels:
-    app: gatewayserver
+    app: cards
 spec:
   replicas: 1
   selector:
     matchLabels:
-      app: gatewayserver
+      app: cards
   template:
     metadata:
       labels:
-        app: gatewayserver
+        app: cards
     spec:
       containers:
-      - name: gatewayserver
-        image: dangngocsoncntt/gatewayserver:newest
+      - name: cards
+        image: dangngocsoncntt/cards:newest
         ports:
-        - containerPort: 29902
+        - containerPort: 29920
         env:
         - name: EUREKA_CLIENT_SERVICEURL_DEFAULTZONE
           valueFrom: 
@@ -29,12 +29,12 @@ spec:
 apiVersion: v1
 kind: Service
 metadata:
-  name: gatewayserver-service
+  name: cards-service
 spec:
   selector:
-    app: gatewayserver
-  type: LoadBalancer
+    app: cards
+  type: ClusterIP
   ports:
     - protocol: TCP
-      port: 29902
-      targetPort: 29902
+      port: 29920
+      targetPort: 29920

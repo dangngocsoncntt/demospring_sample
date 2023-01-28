@@ -1,6 +1,6 @@
 apiVersion: v1
 kind: ConfigMap
 metadata:
-  name: common-configmap
+  name: dangngocsoncntt-configmap
 data:
   EUREKA_CLIENT_SERVICEURL_DEFAULTZONE: http://eurekaserver-service:29901/eureka/
